@@ -5,4 +5,3 @@ function showUser() {
 }
 
 console.log('사용자 정보 : ' + showUser());
-console.log('깃 리버트용');
